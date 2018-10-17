@@ -5,7 +5,7 @@ A small library that adds commas to numbers
 
 ## Installation
 
-    npm install @JayanCherian/number-formatter
+    npm install @jayancherian/number-formatter
 
 ## Usage
 
